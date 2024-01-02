@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://pkvgames.qua.st/sitemap.xml
